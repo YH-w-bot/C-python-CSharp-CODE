@@ -1,0 +1,16 @@
+# Visual Studio 缓存文件
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# 编译输出目录
+bin/
+obj/
+
+# VS Code 配置（可选，如果你不想共享这些）
+.vscode/
+
+# 临时文件
+*.tmp
+*.log
