@@ -15,3 +15,10 @@ obj/
 *.tmp
 *.log
 CODEc/test.exe
+CODEc/project.exe
+CODEc/test2.exe
+CODEpython/.vscode/launch.json
+CODEc/test3.exe
+CODEc/.vscode/launch.json
+CODEpython/.vscode/launch.json
+CODEc/test5.exe
