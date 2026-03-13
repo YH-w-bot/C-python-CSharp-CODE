@@ -1,11 +1,9 @@
 #include <stdio.h>
-#include<windows.h>
+#include <stdlib.h>
 int main()
 {
-    SetConsoleOutputCP (65001);
-    SetConsoleCP(65001);
-    
-    printf("hello world\n");
-    printf("你好世界\n");
+    printf("Hello World!\n");
+    printf("你好世界！\n");
+    system("pause");    // 防止运行后自动退出，需头文件stdlib.h
     return 0;
 }
