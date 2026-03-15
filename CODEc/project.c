@@ -7,3 +7,5 @@ int main()
     system("pause");    // 防止运行后自动退出，需头文件stdlib.h
     return 0;
 }
+//ctrl+k+c注释
+//Ctrl+k+u取消注释
